@@ -1,7 +1,7 @@
 # JirKuis: Simple Quiz
 ##### Permainan kuis sederhana, dengan ukuran file yang kecil dan mendukung oleh berbagai platform dan sistem operasi. Dengan bahasa Indonesia dan kontrol sederhana tanpa menggunakan jaringan [berbayar] dan memiliki versi GRATIS!!
 
-## Instalasi:
+## Instalasi🔽:
 Unduh permainan tersebut melalui link berikut: [Itch.io](https://jirdev.itch.io/jirkuis-simple-quiz/download/iQI9_5JugS_UrnbSPn3RkIs3SwjqAyhE66PidlNO)
 
 Atau
@@ -21,7 +21,35 @@ Unduh melalui github:
 
 [![Icon8](https://img.shields.io/badge/Icons8-000000?style=for-the-badge&logo=icons8&logoColor=white)](https://icons8.com/)
 
-## Syarat Spesifikasi:
+## Tahap Pengembangan👨‍💻:
+Permainan ini masih dalam tahap beta testing, jadi harap di maklumi jika masih banyak bug, level, fitur yang belum sepenuhnya bekerja. Anda dapat membantu saya dan memberikan bug atau kesalahan dalam permainan tersebut di [sini](https://jirdev.itch.io/jirkuis-simple-quiz/download/iQI9_5JugS_UrnbSPn3RkIs3SwjqAyhE66PidlNO), permainan JirKuis berada di versi 2.2.0.
+
+## Catatan Pembaruan:
+**2.1.5🚩**:
+- Memperbaiki Bug
+- Performa Yang Ditingkatkan
+- Pengembangan Telah Di Hentikan
+
+**2.0.0**:
+- Update Besar Besaran
+- Memperbaiki Masalah Performa
+- Peningkatan Tampilan Yang Semakin Baik
+- Penambahan 15 Level Baru
+- Memperbaiki Sejumlah Masalah
+- Menghilangkan Gambar Pada Setiap Level
+- Menambahkan Fitur Feedback
+- Menambahkan Fitur Iklan
+
+**1.2.0**:
+- Menambahkan 5 Level
+- Menambahkan Musik Latar Belakang
+- Memperbaiki Sedikit Masalah Performa
+- Memperbaiki Masalah Tampilan
+
+**1.0.0**:
+- Perilisan JirKuis
+
+## Syarat Spesifikasi💻:
 
 Untuk menjalankan aplikasi ini dengan baik, perangkat Anda harus memenuhi persyaratan sistem berikut:
 
@@ -43,5 +71,5 @@ Untuk menjalankan aplikasi ini dengan baik, perangkat Anda harus memenuhi persya
 
 ## Credits:
 ---
->JirDev
+>JirDev👑
 ---
