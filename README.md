@@ -6,7 +6,7 @@ Unduh permainan tersebut melalui link berikut: [Itch.io](https://jirdev.itch.io/
 
 Atau
 
-Unduh melalui github: 
+Unduh melalui github: [GitHub](https://github.com/Jer-Creator/JirKuis/releases/)
 
 ## Dibuat dengan:
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://canva.com)
@@ -68,6 +68,12 @@ Untuk menjalankan aplikasi ini dengan baik, perangkat Anda harus memenuhi persya
 - **Penyimpanan:** 1 GB ruang kosong
 - **Grafis:** NVIDIA GeForce atau AMD Radeon
 - **Lain-lain:** Koneksi internet untuk unduhan dan pembaruan
+
+## Lisensi:
+**JirKuis: Simple Quiz © 2024 is licensed under CC BY-ND 4.0**
+--
+**JirKuis: Simple Quiz © 2024 dilisensikan di bawah CC BY-ND 4.0**
+--
 
 ## Credits:
 ---
