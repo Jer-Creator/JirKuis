@@ -2,7 +2,7 @@
 ##### Permainan kuis sederhana, dengan ukuran file yang kecil dan mendukung oleh berbagai platform dan sistem operasi. Dengan bahasa Indonesia dan kontrol sederhana tanpa menggunakan jaringan [berbayar] dan memiliki versi GRATIS!!
 
 ## Instalasi🔽:
-Unduh permainan tersebut melalui link berikut: [Itch.io](https://jirdev.itch.io/jirkuis-simple-quiz/download/iQI9_5JugS_UrnbSPn3RkIs3SwjqAyhE66PidlNO)
+Unduh permainan tersebut melalui link berikut: [Itch.io](https://jirdev.itch.io/jirkuis-simple-quiz/download/)
 
 Atau
 
