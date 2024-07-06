@@ -1,5 +1,5 @@
 # JirKuis: Simple Quiz
-##### Permainan kuis sederhana, dengan ukuran file yang kecil dan mendukung oleh berbagai platform dan sistem operasi. Dengan bahasa Indonesia dan kontrol sederhana tanpa menggunakan jaringan [berbayar] dan memiliki versi GRATIS!!
+##### Permainan kuis sederhana, dengan ukuran file yang kecil dan mendukung oleh berbagai platform dan sistem operasi. Dengan bahasa Indonesia dan kontrol sederhana tanpa menggunakan jaringan [BERBAYAR] dan memiliki versi GRATIS!!
 
 ## Instalasi🔽:
 Unduh permainan tersebut melalui link berikut: [Itch.io](https://jirdev.itch.io/jirkuis-simple-quiz/download/eyJleHBpcmVzIjoxNzIwMTkzNDcwLCJpZCI6MjY4MDg4MH0%3d.7KmFaEoFAPdrfazrymxbRDM6mLo%3d)
@@ -22,7 +22,7 @@ Unduh melalui github: [GitHub](https://github.com/Jer-Creator/JirKuis/releases/)
 [![Icon8](https://img.shields.io/badge/Icons8-000000?style=for-the-badge&logo=icons8&logoColor=white)](https://icons8.com/)
 
 ## Tahap Pengembangan👨‍💻:
-Permainan ini masih dalam tahap beta testing, jadi harap di maklumi jika masih banyak bug, level, fitur yang belum sepenuhnya bekerja. Anda dapat membantu saya dan memberikan bug atau kesalahan dalam permainan tersebut di [sini](https://jirdev.itch.io/jirkuis-simple-quiz/download/iQI9_5JugS_UrnbSPn3RkIs3SwjqAyhE66PidlNO), permainan JirKuis berada di versi 2.2.0.
+Permainan ini masih dalam tahap beta testing, jadi harap di maklumi jika masih banyak bug, level, fitur yang belum sepenuhnya bekerja. Anda dapat membantu saya dan memberikan bug atau kesalahan dalam permainan tersebut di [sini](https://jirdev.itch.io/jirkuis-simple-quiz/download/iQI9_5JugS_UrnbSPn3RkIs3SwjqAyhE66PidlNO) atau pada halaman diskusi [disini](https://github.com/Jer-Creator/JirKuis/discussions), permainan JirKuis berada di versi 2.1.5.
 
 ## Catatan Pembaruan:
 **2.1.5🚩**:
@@ -68,6 +68,9 @@ Untuk menjalankan aplikasi ini dengan baik, perangkat Anda harus memenuhi persya
 - **Penyimpanan:** 1 GB ruang kosong
 - **Grafis:** NVIDIA GeForce atau AMD Radeon
 - **Lain-lain:** Koneksi internet untuk unduhan dan pembaruan
+
+## Kontributor:
+Jika Anda ingin kontribusi ke projek ini dan ingin menjadi kontributor, ikuti panduan dan syarat kontributor [disini](https://github.com/Jer-Creator/JirKuis/blob/main/CONTRIBUTING.md).
 
 ## Lisensi:
 **JirKuis: Simple Quiz © 2024 is licensed under CC BY-ND 4.0**
